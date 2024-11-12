@@ -1,4 +1,4 @@
-## Welcome to the *PackSite* offical code base 🙌
+## Welcome to the *PackSite* official codebase 🙌
 
 # Useful links
 
